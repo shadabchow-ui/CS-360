@@ -30,5 +30,4 @@ The component where I was most successful in demonstrating my knowledge, skills,
 Submit this repository link in Brightspace:
 `https://github.com/shadabchow-ui/CS-360`
 
-## AI Use Disclosure
-I used ChatGPT to help brainstorm and draft parts of this README, then reviewed and edited the final content before submitting.
+
